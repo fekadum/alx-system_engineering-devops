@@ -1,1 +1,2 @@
-my first readme
+#!/bin/bash
+check this is all updated
