@@ -1,2 +1,2 @@
 #!/bin/bash
-chom 754 hello
+chom 755 hello
